@@ -9,7 +9,7 @@ http://www.templatemo.com/tm-515-eatery
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 
 body {
-  background: #ffffff;
+  background: #fff;
   font-family: "Montserrat", sans-serif;
   overflow-x: hidden;
 }
@@ -35,7 +35,7 @@ h1 {
 }
 
 h2 {
-  color: #353535;
+  color: #334231;
   font-size: 2em;
   padding-bottom: 10px;
 }
@@ -143,12 +143,12 @@ section {
   -----------------------------------------*/
 
 .section-btn {
-  background: #ce3232;
+  background: purple;
   border-radius: 0;
   border: 0;
-  color: #f9f9f9;
+  color: #fff;
   font-size: inherit;
-  font-weight: normal;
+  font-weight: bold;
   padding: 10px 25px;
   transition: 0.5s 0.2s;
 }
@@ -390,7 +390,6 @@ section {
   background-color: rgba(20, 20, 20, 0.2);
   height: 100%;
   color: #fff;
-  cursor: e-resize;
   padding: 4em 0 0 2em;
 }
 
@@ -653,7 +652,7 @@ section {
 }
 
 #contact button#cf-submit {
-  background: #ce3232;
+  background: purple;
   border-radius: 0;
   border: 0;
   color: #ffffff;
@@ -703,7 +702,7 @@ footer .social-icon {
 }
 
 .footer-open-hour {
-  background: #ce3232;
+  background: purple;
   background: url("../images/footer-open-hour-bg.jpg") center center no-repeat;
   background-size: cover;
   border-radius: 20px;
